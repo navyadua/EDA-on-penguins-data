@@ -29,7 +29,3 @@ Clustering analysis is performed to group similar penguin observations based on 
 
 ### Conclusion 🎉
 This EDA provides valuable insights into the distribution and patterns of penguin data. Variables such as species, island, and gender have a significant impact on body mass, while the year of observation does not. The clustering analysis further identifies three distinct groups of penguin observations based on their characteristics. These findings can be further explored to understand the ecological and biological factors affecting penguin populations. Further analysis and modeling could be conducted to predict or classify penguin characteristics based on the identified patterns.
-- **Mann-Whitney U Test:** The test results reveal a significant difference in body mass between male and female penguins.
-
-### Conclusion 🎉
-This EDA provides valuable insights into the distribution and patterns of penguin data. Variables such as species, island, and gender have a significant impact on body mass, while the year of observation does not. These findings can be further explored to understand the ecological and biological factors affecting penguin populations. Further analysis and modeling could be conducted to predict or classify penguin characteristics based on the identified patterns.
