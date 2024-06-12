@@ -1,5 +1,9 @@
 ## Exploratory Data Analysis and Clustering Patterns of Penguin Data🐧📊
 
+![EDA-on-penguins-data](https://socialify.git.ci/navyadua/EDA-on-penguins-data/image?name=1&theme=Light)
+<p align="center">
+![](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white) ![](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![](https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white)
+</p>
 This repository contains code and documentation for conducting exploratory data analysis (EDA) on a dataset containing information about penguins. The dataset includes variables such as species, island of habitat, bill measurements, body mass, gender, and year of observation.
 
 ### Introduction ℹ️
