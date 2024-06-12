@@ -1,10 +1,10 @@
 ## Exploratory Data Analysis and Clustering Patterns of Penguin Data🐧📊
 
-![EDA-on-penguins-data](https://socialify.git.ci/navyadua/EDA-on-penguins-data/image?name=1&theme=Light)
+<p align="center"><img src="https://socialify.git.ci/navyadua/EDA-on-penguins-data/image?name=1&amp;theme=Light" alt="project-image"></p>
 
-![](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white) ![](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![](https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white)
+<p id="description">Conducting exploratory data analysis (EDA) on a dataset containing information about penguins. The dataset includes variables such as species island of habitat bill measurements body mass gender and year of observation.</p>
 
-This repository contains code and documentation for conducting exploratory data analysis (EDA) on a dataset containing information about penguins. The dataset includes variables such as species, island of habitat, bill measurements, body mass, gender, and year of observation.
+<p align="center"><img src="https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&amp;logo=SciPy&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&amp;logo=Python&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&amp;logo=SQLite&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white" alt="shields"></p>
 
 ### Introduction ℹ️
 Exploratory Data Analysis (EDA) is a crucial step in understanding the underlying patterns and characteristics of a dataset. In this project, we conduct EDA on a penguin dataset to gain insights into the distribution of penguin species, explore relationships between variables, and identify any interesting patterns or trends.
